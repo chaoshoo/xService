@@ -1,1 +1,1 @@
-Communication protocal via java NIO socket.
+Communication protocal via java NIO socket!
